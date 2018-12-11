@@ -1,2 +1,2 @@
 # Blockstore
-Data storage to blockchain
+Data storage to blockchain.
